@@ -1,0 +1,1 @@
+This is a simple test that produces a ROM that cycles between 192, 224 and 240 pixel tall video modes when you press a button.
