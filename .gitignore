@@ -1,0 +1,6 @@
+*.bin
+*.aplib
+*.sym
+*.o
+auto.makefile
+*.sms
